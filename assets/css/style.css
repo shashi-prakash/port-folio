@@ -40,6 +40,11 @@ a {
 a:hover {
   color: #92d283;
 }
+#logo {
+  border-radius: 6px;
+  border: 2px solid #71c55d;
+  padding: 4px;
+}
 
 ul {
   letter-spacing: 1px;
