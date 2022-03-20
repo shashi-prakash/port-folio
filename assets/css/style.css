@@ -540,6 +540,9 @@ h1 span.cursor.typing {
   #hero .btns a {
     margin: 4px 8px;
   }
+   #hero {
+    margin-top: 10px;
+  }
 }
 #hero .btns a:hover {
   color: #71c55d;
