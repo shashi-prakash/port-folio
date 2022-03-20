@@ -421,7 +421,7 @@ span {
 }
 @media (max-height: 600px) {
   #hero {
-    height: 150vh;
+    height: 80vh;
   }
 }
 #hero .hero-container {
