@@ -94,11 +94,11 @@ span {
   color: black;
   z-index: 10000;
   position: absolute;
-  margin-top: 7px;
+  margin-top: 13px;
   background-color: white;
   color: #71c55d;
   width: 26px;
-  right: 19px;
+  right: 5.5rem;
 }
 /* ###################################  pdf  ############################################# */
 
